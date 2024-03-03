@@ -1,6 +1,6 @@
 import  {NextResponse} from "next/server";
 
-export async function GET(request: Request) {
+export default async function GET(request: Request) {
 
 
 
